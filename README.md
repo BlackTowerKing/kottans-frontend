@@ -43,18 +43,18 @@ Greate visualization of work with branch. Formalization Readme.txt
 I will use GIT)
 
 ## Extra Materials
-* Git за 30 хвилин
+* [Git за 30 хвилин](https://codeguida.com/post/453)
 
-[Git tips — consolidate your knowledge of Git](https://codeguida.com/post/453)
+* [Git tips — consolidate your knowledge of Git](https://codeguida.com/post/453)
 
-[About Merge Conflicts](https://www.webfx.com/blog/web-design/git-tips/)
+* [About Merge Conflicts](https://www.webfx.com/blog/web-design/git-tips/)
 
-[Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
+* [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
 
-[Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+* [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 
-[Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
+* [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 
-[TypingClub](https://www.typingclub.com/) — improve your typing speed
+* [TypingClub](https://www.typingclub.com/) — improve your typing speed
 
-[Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/learning/)
+* [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/learning/)
