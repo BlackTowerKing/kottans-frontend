@@ -32,6 +32,6 @@
 #### Git & Linux CLI, HTT
 1. Git intro
 
-[git-comleted](images/1.1-git-intro.png)
-[git-comleted](images/1.2-git-intro.png)
-[git-comleted](images/1.3-git-intro.png)
+![git-comleted](images/1.1-git-intro.png)
+![git-comleted](images/1.2-git-intro.png)
+![git-comleted](images/1.3-git-intro.png)
