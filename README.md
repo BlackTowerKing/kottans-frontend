@@ -37,5 +37,7 @@
 ![git-comleted](images/1.3-git-intro.png)
 
 A lot of new information & commands. Until this moment not often use a git(. Now I understand how much I lost
+
 Greate visualization of work with branch. Formalization Readme.txt
+
 I will use GIT)
