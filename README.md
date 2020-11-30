@@ -30,10 +30,6 @@
 
 ## Git Basics
 
-![git-comleted](images/1.1-git-intro.png)
-![git-comleted](images/1.2-git-intro.png)
-![git-comleted](images/1.3-git-intro.png)
-
 A lot of new information & commands. Until this moment not often use a git(. Now I understand how much I lost
 
 Greate visualization of work with branch. Formalization Readme.txt
@@ -45,6 +41,13 @@ I will use GIT)
 ![git-comleted](task_linux_cli/task_linux_cli_2.png)
 ![git-comleted](task_linux_cli/task_linux_cli_3.png)
 ![git-comleted](task_linux_cli/task_linux_cli_4.png)
+
+Terminal commands like a magic spells)
+
+New commands: more, chmod, rmdir, groups, finger, lp, ps, grep, kill,df
+
+Wil use all of them
+
 
 ## Extra Materials
 * [Git за 30 хвилин](https://codeguida.com/post/453)
