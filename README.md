@@ -4,21 +4,21 @@
 
 ### Tasks Listing
 ---
-#### Git & Linux CLI, HTT
-- [x] Git intro
-- [ ] Linux CLI, HTTP
-- [ ] Git for Team Collaboration
+#### General
+- [x] Git Basics
+- [ ] Linux CLI and Networking
+- [ ] VCS (hello gitty), GitHub and Collaboration
 ---
-#### HTML & CSS
-- [ ] Front-End Basics
+#### Front-End Basics
+- [ ] Intro to HTML & CSS
 - [ ] Responsive Layouts
 - [ ] HTML & CSS Practice - practice
-#### JavaScript
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
+---
+#### Advanced Topics
 - [ ] Building a Tiny JS World (pre-OOP) - practice
 - [ ] Object-Oriented JavaScript - practice
-#### Exercises
 - [ ] OOP exercise - practice
 - [ ] Offline Web Applications - optional
 - [ ] Memory – Pair Game - practice
@@ -27,10 +27,8 @@
 ---
 
 # My Progress
-## Stage 0. Self-Study
 
-#### Git & Linux CLI, HTT
-1. Git intro
+## Git Basics
 
 ![git-comleted](images/1.1-git-intro.png)
 ![git-comleted](images/1.2-git-intro.png)
@@ -42,6 +40,12 @@ Greate visualization of work with branch. Formalization Readme.txt
 
 I will use GIT)
 
+## Linux CLI, and HTTP
+![git-comleted](task_linux_cli/task_linux_cli_1)
+![git-comleted](task_linux_cli/task_linux_cli_2)
+![git-comleted](task_linux_cli/task_linux_cli_3)
+![git-comleted](task_linux_cli/task_linux_cli_4)
+
 ## Extra Materials
 * [Git за 30 хвилин](https://codeguida.com/post/453)
 
@@ -52,8 +56,6 @@ I will use GIT)
 * [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
 
 * [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
-
-* [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 
 * [TypingClub](https://www.typingclub.com/) — improve your typing speed
 
