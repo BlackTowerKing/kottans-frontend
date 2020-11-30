@@ -41,10 +41,10 @@ Greate visualization of work with branch. Formalization Readme.txt
 I will use GIT)
 
 ## Linux CLI, and HTTP
-![git-comleted](task_linux_cli/task_linux_cli_1)
-![git-comleted](task_linux_cli/task_linux_cli_2)
-![git-comleted](task_linux_cli/task_linux_cli_3)
-![git-comleted](task_linux_cli/task_linux_cli_4)
+![git-comleted](task_linux_cli/task_linux_cli_1.png)
+![git-comleted](task_linux_cli/task_linux_cli_2.png)
+![git-comleted](task_linux_cli/task_linux_cli_3.png)
+![git-comleted](task_linux_cli/task_linux_cli_4.png)
 
 ## Extra Materials
 * [Git за 30 хвилин](https://codeguida.com/post/453)
