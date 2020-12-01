@@ -46,9 +46,10 @@ Terminal commands like a magic spells)
 
 New commands: more, chmod, rmdir, groups, finger, lp, ps, grep, kill,df
 
-Wil use all of them
+Will use all of them
+## Main Materials
 
-
+---
 ## Extra Materials
 * [Git за 30 хвилин](https://codeguida.com/post/453)
 
@@ -63,3 +64,15 @@ Wil use all of them
 * [TypingClub](https://www.typingclub.com/) — improve your typing speed
 
 * [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/learning/)
+---
+* [Основы командной строки Hexlet (РУС)](https://ru.hexlet.io/courses/cli-basics)
+
+* [HTTP: Протокол, який повинен розуміти кожний веб-розробник (Частина 1) (УКР)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+
+* [HTTP: Протокол, який повинен розуміти кожний веб-розробник (Частина 2)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+---
+## Optional
+* [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+
+* [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
