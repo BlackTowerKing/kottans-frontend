@@ -6,8 +6,8 @@
 ---
 #### General
 - [x] Git Basics
-- [ ] Linux CLI and Networking
-- [ ] VCS (hello gitty), GitHub and Collaboration
+- [x] Linux CLI and Networking
+- [x] VCS (hello gitty), GitHub and Collaboration
 ---
 #### Front-End Basics
 - [ ] Intro to HTML & CSS
