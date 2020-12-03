@@ -37,16 +37,29 @@ Greate visualization of work with branch. Formalization Readme.txt
 I will use GIT)
 
 ## Linux CLI, and HTTP
-![git-comleted](task_linux_cli/task_linux_cli_1.png)
-![git-comleted](task_linux_cli/task_linux_cli_2.png)
-![git-comleted](task_linux_cli/task_linux_cli_3.png)
-![git-comleted](task_linux_cli/task_linux_cli_4.png)
+![linux-comleted](task_linux_cli/task_linux_cli_1.png)
+![linux-comleted](task_linux_cli/task_linux_cli_2.png)
+![linux-comleted](task_linux_cli/task_linux_cli_3.png)
+![linux-comleted](task_linux_cli/task_linux_cli_4.png)
 
 Terminal commands like a magic spells)
 
 New commands: more, chmod, rmdir, groups, finger, lp, ps, grep, kill,df
 
 Will use all of them
+
+## Git Collaboration
+![collaboration](task_git_collaboration/github-collaboration.png)
+![collaboration](task_git_collaboration/learngitbranching_1.png)
+![collaboration](task_git_collaboration/learngitbranching_2.png)
+![collaboration](task_git_collaboration/learngitbranching_3.png)
+
+Good explanation about remote, about works with others. Information about contribute was interesting, I`ve never look it this file before.
+
+REBASE) before use only merge. Git cherry-pick - absolutely mew command
+
+Will use - git pull source:destination; all about rebase
+
 ## Main Materials
 
 ---
