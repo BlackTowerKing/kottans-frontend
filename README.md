@@ -84,6 +84,14 @@ Will use - git pull source:destination; all about rebase
 
 * [HTTP: Протокол, який повинен розуміти кожний веб-розробник (Частина 2)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
+* [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/watch?v=MJUJ4wbFm_A&feature=youtu.be)
+
+* [Oh shit, git!](https://ohshitgit.com/)
+
+* [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+
+* [GitHub Learning Lab](https://lab.github.com/)
+
 ---
 ## Optional
 * [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
