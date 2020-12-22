@@ -65,6 +65,12 @@ Will use - git pull source:destination; all about rebase
 ![intro-html-css](task_html_css_intro/learn-html.png)
 ![intro-html-css](task_html_css_intro/learn-css.png)
 
+Not so a lot new information like before, but still found some new!)
+
+Grid-area, grid.
+
+Grid awesome tool, need to use it more often
+
 ## Main Materials
 
 ---
