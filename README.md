@@ -56,9 +56,14 @@ Will use all of them
 
 Good explanation about remote, about works with others. Information about contribute was interesting, I`ve never look it this file before.
 
-REBASE) before use only merge. Git cherry-pick - absolutely mew command
+REBASE) before use only merge. Git cherry-pick - absolutely new command
 
 Will use - git pull source:destination; all about rebase
+
+## Intro to HTML and CSS
+![intro-html-css](task_html_css_intro/intro-to-html-css.png)
+![intro-html-css](task_html_css_intro/learn-html.png)
+![intro-html-css](task_html_css_intro/learn-css.png)
 
 ## Main Materials
 
@@ -83,7 +88,7 @@ Will use - git pull source:destination; all about rebase
 * [HTTP: Протокол, який повинен розуміти кожний веб-розробник (Частина 1) (УКР)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
 * [HTTP: Протокол, який повинен розуміти кожний веб-розробник (Частина 2)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
-
+---
 * [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/watch?v=MJUJ4wbFm_A&feature=youtu.be)
 
 * [Oh shit, git!](https://ohshitgit.com/)
