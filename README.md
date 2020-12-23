@@ -10,8 +10,8 @@
 - [x] VCS (hello gitty), GitHub and Collaboration
 ---
 #### Front-End Basics
-- [ ] Intro to HTML & CSS
-- [ ] Responsive Layouts
+- [x] Intro to HTML & CSS
+- [x] Responsive Layouts
 - [ ] HTML & CSS Practice - practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
@@ -72,8 +72,12 @@ Grid-area, grid.
 Grid awesome tool, need to use it more often.
 
 ## Responsive Web Design
-![responsive-web-design-fundamentals](task_responsive_web_design/task_responsive_web_design)
-![flexbox-froggy](task_html_css_intro/learn-html.png)
+![responsive-web-design-fundamentals](task_responsive_web_design/responsive_web_design.png)
+![flexbox-froggy](task_responsive_web_design/flexbox_froggy.png)
+
+Good explanation about DPI, practise flex | grid
+
+Responsive MUST USE!
 
 ## Main Materials
 
