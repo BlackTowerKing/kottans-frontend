@@ -69,7 +69,11 @@ Not so a lot new information like before, but still found some new!)
 
 Grid-area, grid.
 
-Grid awesome tool, need to use it more often
+Grid awesome tool, need to use it more often.
+
+## Responsive Web Design
+![responsive-web-design-fundamentals](task_responsive_web_design/task_responsive_web_design)
+![flexbox-froggy](task_html_css_intro/learn-html.png)
 
 ## Main Materials
 
